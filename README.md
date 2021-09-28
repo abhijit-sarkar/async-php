@@ -1,6 +1,6 @@
 # async-php
 
-This library is not supported in Laravel Framework.
+This library is only supported in Laravel Framework.
 
 In config/app.php, add - AsyncPHP\AsyncPHPServiceProvider:class inside "providers"
 
