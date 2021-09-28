@@ -2,7 +2,7 @@
 
 This library is only supported in Laravel Framework.
 
-In config/app.php, add - AsyncPHP\AsyncPHPServiceProvider:class inside "providers"
+In config/app.php, add - AsyncPHP\AsyncPHPServiceProvider::class inside "providers"
 
 
 class MyClass{
